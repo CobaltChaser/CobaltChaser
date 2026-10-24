@@ -1,4 +1,4 @@
-# Hi, I'm CobaltChaser 👋
+# Hi, I'm Himanshu {CobaltChaser} 👋
 
 I'm focused on AI safety, mechanistic interpretability, and open-source security tooling. 
 
